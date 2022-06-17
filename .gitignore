@@ -1,2 +1,6 @@
 .vscode
 lib
+bin
+.DS_Store
+README.md
+
